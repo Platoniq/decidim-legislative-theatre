@@ -1,2 +1,2 @@
 # decidim-legislative-theatre
-A Decidim's flavor that comes with everything you need to engange a legislative theater process
+A Decidim flavor that comes with everything you need to engage a legislative theater process.
