@@ -66,4 +66,24 @@ You are good to go!
 
 ---
 
-Created by [La Fundación Platoniq](https://platoniq.net)
+
+## A project by
+
+<a href="https://journal.platoniq.net/es/wilder-journal-2/">
+  <img src="docs/logos/platoniq.jpg" height="80" alt="Platoniq Logo">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.thepeopleact.org/">
+  <img src="docs/logos/thepeopleact.png" height="80" alt="The People Act Logo">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://inlogov.com/">
+  <img src="docs/logos/uob.png" height="80" alt="University of Birmingham Logo">
+</a>
+
+## Funded by
+
+<a href="https://ajuntament.barcelona.cat/en/">
+  <img src="docs/logos/barcelona.png" height="80" alt="Ajuntament de Barcelona Logo">
+</a>
+
