@@ -43,3 +43,7 @@ Once deployed, follow these steps to initialize the application:
     Fill in the rest of the form and submit.
 
 You are good to go!
+
+---
+
+Created by [La Fundación Platoniq](https://platoniq.net)
