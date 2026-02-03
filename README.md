@@ -20,6 +20,17 @@ This installation includes the following standard Decidim modules, configured fo
 *   **Comments**
 *   **Forms**
 
+## Third Party Modules
+
+This repository is designed to support additional third-party modules which are useful for legislative theatre initiatives.
+
+*   *(No third-party modules currently installed)*
+
+## Screenshots
+
+<img src="docs/screenshots/01.jpg" width="400" /> <img src="docs/screenshots/02.jpg" width="400" />
+<img src="docs/screenshots/03.jpg" width="400" /> <img src="docs/screenshots/04.jpg" width="400" />
+
 ## Configuration
 
 This repository is pre-configured with the settings required for Legislative Theatre initiatives. No additional module installation is required to get started with the core methodology.
@@ -43,6 +54,10 @@ Once deployed, follow these steps to initialize the application:
     Fill in the rest of the form and submit.
 
 You are good to go!
+
+## SPONSORED BY
+
+<!-- Logos to be added -->
 
 ---
 
