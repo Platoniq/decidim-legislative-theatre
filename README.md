@@ -55,10 +55,6 @@ Once deployed, follow these steps to initialize the application:
 
 You are good to go!
 
-## SPONSORED BY
-
-<!-- Logos to be added -->
-
 ---
 
 Created by [La Fundación Platoniq](https://platoniq.net)
