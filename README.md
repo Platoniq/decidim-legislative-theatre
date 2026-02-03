@@ -24,7 +24,16 @@ This installation includes the following standard Decidim modules, configured fo
 
 This repository is designed to support additional third-party modules which are useful for legislative theatre initiatives.
 
-*   *(No third-party modules currently installed)*
+*   [Decidim Alternative Landing](https://github.com/Platoniq/decidim-module-alternative_landing)
+*   [Decidim Comparative Stats](https://github.com/Platoniq/decidim-module-comparative_stats)
+*   [Decidim Awesome](https://github.com/decidim-ice/decidim-module-decidim_awesome)
+*   [Direct Verifications](https://github.com/Platoniq/decidim-verifications-direct_verifications)
+*   [Decidim Kids](https://github.com/AjuntamentdeBarcelona/decidim-module-kids)
+*   [Decidim Navigation Maps](https://github.com/Platoniq/decidim-module-navigation_maps)
+*   [Decidim Notify](https://github.com/Platoniq/decidim-module-notify)
+*   [Decidim Superspaces](https://github.com/Platoniq/decidim-superspace)
+*   [Decidim Term Customizer](https://github.com/Platoniq/decidim-module-term_customizer)
+*   [Decidim Time Tracker](https://github.com/Platoniq/decidim-module-time_tracker)
 
 ## Screenshots
 
