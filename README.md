@@ -19,6 +19,8 @@ This installation includes the following standard Decidim modules, configured fo
 *   **Pages**
 *   **Comments**
 *   **Forms**
+*   **Elections**
+*   **Conferences**
 
 ## Third Party Modules
 
